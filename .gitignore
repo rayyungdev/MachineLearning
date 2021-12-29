@@ -118,3 +118,11 @@ dmypy.json
 data/.DS_Store
 
 *.pkl
+
+ISM_df_with_correction.xlsx
+ISM_annotation.txt
+combined.fasta
+wastewater.fasta
+output.mafft
+
+.spyproject/
